@@ -7,4 +7,4 @@
 ![image](./screenshot/user_in_browser_github.jpg)
 
 **база даних**
-![image](./screenshot/user_in_browser_github.jpg)
+![image](./screenshot/database.jpg)
